@@ -1,0 +1,17 @@
+.icons{
+	margin: 15% 0 5% 0;
+	width: 50%;
+	height: 50%;
+}
+#logo{
+	width: 5%; 
+	height: 5%;
+	float: right;
+	margin: 1%;
+}
+#user{
+	width: 4%; 
+	height: 4%;
+	float: left;
+	margin: 1%;
+}

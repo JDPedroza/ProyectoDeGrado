@@ -1,0 +1,38 @@
+.boton{
+	margin: 10% auto;
+	/*margin-top: ;*/
+	text-align: center;
+	width: 80%;
+	height: 20%;
+	display: flex;
+	cursor: pointer;
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    transition: background 0.5s, color 0.5s;
+}
+
+#bconfirmar{
+	box-shadow:inset 0 0 0 3px #2EFE2E;
+	font-family: MS Reference Sans Serif;
+	color: green;
+}
+
+#bconfirmar:hover{
+	font-family: MS Reference Sans Serif;
+	background-color: #2EFE2E;
+	color: white;
+}
+
+#bcancelar{
+	box-shadow:inset 0 0 0 3px red;
+	font-family: MS Reference Sans Serif;
+	color: red;
+}
+
+#bcancelar:hover{
+	font-family: MS Reference Sans Serif;
+	background-color: red;
+	color: white;
+}
