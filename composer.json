@@ -1,0 +1,12 @@
+{
+  "autoload":{
+    "psr-4": {
+      "Conexion\\": "extras/",
+      "Formularios\\": "formularios/",
+      "Mostrar\\": "scripts/"
+    }
+  },
+  "require": {
+    "ext-pdo": "*"
+  }
+}

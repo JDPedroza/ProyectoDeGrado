@@ -1,6 +1,6 @@
 <?php
-include_once '../Extras/conexion.php';
-include_once '../Scripts/mostrar.php';
+namespace Formularios;
+include_once '../vendor/autoload.php';
 
 use Conexion\conexion;
 use Mostrar\mostrar;
