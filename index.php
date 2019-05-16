@@ -1,27 +1,27 @@
 <!DOCTYPE html>
-<html>
+<html lang="">
 <head>
-	<link rel="stylesheet" type="text/css" href="CSS/index.css">
+	<link rel="stylesheet" type="text/css" href="css/index.css">
 	<title>BASMET - SCI</title>
 	<link rel="shortcut icon" href="favicon.ico">
 </head>
 <header>
  	<div id="encabezado">
- 		<img src="IMG/icons/logo_Basmet.jpg" id="logo">
+ 		<img src="img/icons/logo_Basmet.jpg" id="logo" alt="">
 	 	<!-- <h1 id="basmet">BASMET S.A.S.</h1> -->
 	 	<div id="titulo">
 	 		<h1 id="nameapp">Sistema de Control Interno</h1>
 	 	</div>
-	 	<img src="IMG/icons/icon_user.png" id="user">
+	 	<img src="img/icons/icon_user.png" id="user" alt="">
  	</div>
  </header>
 <body id="fondo">
 	<div class="dContenedor">
 		<div class="modules" id="m1">
 		 	<div id="dInventarios" class="hoverAllow">
-		 		<img src="IMG/Guia.jpg" id="guia">
+		 		<img src="img/Guia.jpg" id="guia" alt="">
 		 		<div class="lado adelante">
-		 			<img src="IMG/icons/icon_inventario.png" class="icons">
+		 			<img src="img/icons/icon_inventario.png" class="icons" alt="">
 		 			<h1>INVENTARIOS</h1>
 		 		</div>
 		 		<div class="lado arriba">
@@ -57,114 +57,114 @@
 		</div>
 		<div class="modules" id="m2">
 			<div id="dPuntosOperacion" class="hoverAllow">
-			 	<img src="IMG/Guia.jpg" id="guia">
+			 	<img src="img/Guia.jpg" id="guia" alt="">
 		 		<div class="lado adelante">
-		 			<img src="IMG/icons/icon_puntosOperacion.png" class="icons">
+		 			<img src="img/icons/icon_puntosOperacion.png" class="icons" alt="">
 		 			<h2>PUNTOS OPERACIÓN</h2>
 		 		</div>
 		 		<div class="lado arriba">
-		 			<img src="IMG/IArriba.jpg">
+		 			<img src="img/IArriba.jpg" alt="">
 		 			<div class="texto-encima">Arriba</div>
 		 		</div>
 		 		<div class="lado atras">
-		 			<img src="IMG/IAtras.jpg">
+		 			<img src="img/IAtras.jpg" alt="">
 		 			<div class="texto-encima">Atras</div>
 		 		</div>
 		 		<div class="lado abajo">
-		 			<img src="IMG/IAbajo.jpg">
+		 			<img src="img/IAbajo.jpg" alt="">
 		 			<div class="texto-encima">Abajo</div>
 		 		</div>
 			</div>
 		</div>
 		<div class="modules" id="m3">
 			<div id="dEmpleados" class="hoverAllow">
-			 	<img src="IMG/Guia.jpg" id="guia">
+			 	<img src="img/Guia.jpg" id="guia" alt="">
 		 		
 		 		<div class="lado adelante">
-		 			<img src="IMG/icons/icon_empleado.png" class="icons">
+		 			<img src="img/icons/icon_empleado.png" class="icons" alt="">
 		 			<h1>EMPLEADOS</h1>
 		 		</div>
 		 		<div class="lado arriba">
-		 			<img src="IMG/IArriba.jpg">
+		 			<img src="img/IArriba.jpg" alt="">
 		 			<div class="texto-encima">Arriba</div>
 		 		</div>
 		 		<div class="lado atras">
-		 			<img src="IMG/IAtras.jpg">
+		 			<img src="img/IAtras.jpg" alt="">
 		 			<div class="texto-encima">Atras</div>
 		 		</div>
 		 		<div class="lado abajo">
-		 			<img src="IMG/IAbajo.jpg">
+		 			<img src="img/IAbajo.jpg" alt="">
 		 			<div class="texto-encima">Abajo</div>
 		 		</div>
 			</div>
 		</div> 
 		<div class="modules" id="m4"> 
 			<div id="dTraslados" class="hoverAllow">
-		 		<img src="IMG/Guia.jpg" id="guia">
+		 		<img src="img/Guia.jpg" id="guia" alt="">
 		 		<div class="lado adelante">
-		 			<img src="IMG/icons/icon_translados.png" class="icons">
+		 			<img src="img/icons/icon_translados.png" class="icons" alt="">
 		 			<h1>TRANSLADOS</h1>
 		 		</div>
 		 		<div class="lado arriba">
-		 			<img src="IMG/IArriba.jpg">
+		 			<img src="img/IArriba.jpg" alt="">
 		 			<div class="texto-encima">Arriba</div>
 		 		</div>
 		 		<div class="lado atras">
-		 			<img src="IMG/IAtras.jpg">
+		 			<img src="img/IAtras.jpg" alt="">
 		 			<div class="texto-encima">Atras</div>
 		 		</div>
 		 		<div class="lado abajo">
-		 			<img src="IMG/IAbajo.jpg">
+		 			<img src="img/IAbajo.jpg" alt="">
 		 			<div class="texto-encima">Abajo</div>
 		 		</div>	
 			</div>
 		</div>
 		<div class="modules" id="m5">
 			<div id="dEstadisticas" class="hoverAllow">
-		 		<img src="IMG/Guia.jpg" id="guia">
+		 		<img src="img/Guia.jpg" id="guia" alt="">
 		 		
 		 		<div class="lado adelante">
-		 			<img src="IMG/icons/icon_estadisticas.png" class="icons">
+		 			<img src="img/icons/icon_estadisticas.png" class="icons" alt="">
 		 			<h1>ESTADISTICAS</h1>
 		 		</div>
 		 		<div class="lado arriba">
-		 			<img src="IMG/IArriba.jpg">
+		 			<img src="img/IArriba.jpg" alt="">
 		 			<div class="texto-encima">Arriba</div>
 		 		</div>
 		 		<div class="lado atras">
-		 			<img src="IMG/IAtras.jpg">
+		 			<img src="img/IAtras.jpg" alt="">
 		 			<div class="texto-encima">Atras</div>
 		 		</div>
 		 		<div class="lado abajo">
-		 			<img src="IMG/IAbajo.jpg">
+		 			<img src="img/IAbajo.jpg" alt="">
 		 			<div class="texto-encima">Abajo</div>
 		 		</div> 	
 			</div>
 		</div>
 		<div class="modules" id="m6"> 
 			<div id="dUsuarios" class="hoverAllow">
-		 		<img src="IMG/Guia.jpg" id="guia">
+		 		<img src="img/Guia.jpg" id="guia" alt="">
 		 		
 		 		<div class="lado adelante">
-		 			<img src="IMG/icons/icon_proveedores.png" class="icons">
+		 			<img src="img/icons/icon_proveedores.png" class="icons" alt="">
 		 			<h1>PROVEEDORES</h1>
 		 		</div>
 		 		<div class="lado arriba">
-		 			<img src="IMG/IArriba.jpg">
+		 			<img src="img/IArriba.jpg" alt="">
 		 			<div class="texto-encima">Arriba</div>
 		 		</div>
 		 		<div class="lado atras">
-		 			<img src="IMG/IAtras.jpg">
+		 			<img src="img/IAtras.jpg" alt="">
 		 			<div class="texto-encima">Atras</div>
 		 		</div>
 		 		<div class="lado abajo">
-		 			<img src="IMG/IAbajo.jpg">
+		 			<img src="img/IAbajo.jpg" alt="">
 		 			<div class="texto-encima">Abajo</div>
 		 		</div>	
 		</div>
 		</div>
 			<div class="invisible" id="impresionFormularios">
-				<iframe src="FORMULARIOS/formularioPrueba.php" class="impresion"></iframe>
+				<iframe src="formularios/formularioPrueba.php" class="impresion"></iframe>
 			</div>
 			<div class="invisible" id="impresionOpcionesFormulario">
 				<div class="boton" id="bconfirmar">
@@ -176,9 +176,9 @@
 			</div>
 	 </div>
 </body>
-<script type="text/javascript" src="JS/index_Javascript.js"></script>
-<script type="text/javascript" src="JS/moduleI.js"></script>
-<script type="text/javascript" src="JS/CCSrefresh.js"></script>
+<script type="text/javascript" src="js/index_Javascript.js"></script>
+<script type="text/javascript" src="js/moduleI.js"></script>
+<script type="text/javascript" src="js/CCSrefresh.js"></script>
 <footer>
 	<div id="piePagina">© 2019 Basculas y Metalmecanicas SAS. Todos los derechos reservados.
 	</div>

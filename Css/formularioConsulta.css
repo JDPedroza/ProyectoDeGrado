@@ -9,9 +9,13 @@ header{
 	border-bottom: 2px solid #045FB4;
 	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
 }
+tabla{
+	border: 1px;
+	width: 100%;
+}
 div.tabla{
 	flex-wrap: wrap;
-}
+	}
 div.fila{
 
 }
