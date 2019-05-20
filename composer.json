@@ -7,6 +7,8 @@
     }
   },
   "require": {
-    "ext-pdo": "*"
+    "ext-pdo": "*",
+    "zendframework/zend-diactoros": "^1.8",
+    "middlewares/aura-router": "^1.1"
   }
 }
